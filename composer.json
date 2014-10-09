@@ -10,7 +10,7 @@
 	"homepage": "http://framework.zend.com/",
 	"license": "BSD-3-Clause",
 	"require": {
-	  "boosis/zend-loader": "dev-master",
+	  "boosis/zend-loader": "dev-master@dev",
 	  "zf1/zend-controller": "1.12.8",
 		"zf1/zend-exception": "1.12.8",
 		"zf1/zend-locale": "1.12.8",
