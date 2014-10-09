@@ -13,7 +13,7 @@
 		"php": ">=5.2.11",
 		"zf1/zend-controller": "1.12.8",
 		"zf1/zend-exception": "1.12.8",
-		"boosis/zend-loader": "1.12.10",
+		"boosis/zend-loader": "dev-master",
 		"zf1/zend-locale": "1.12.8",
 		"zf1/zend-registry": "1.12.8"
 	},
